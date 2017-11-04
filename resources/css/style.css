@@ -3,14 +3,14 @@ body {
   text-align: center;
 }
 h1, h2, p {
-  font-family: Verdana;
+  font-family: verdana;
   color: white;
 }
 h1 {
   font-weight: normal;
   font-size: 50px;
 }
-h6 {
+a {
   color: aquamarine;
   font-size: 16px;
 }
@@ -27,5 +27,5 @@ p {
 }
 h3 {
   text-align: right;
-  color: Gray;
+  color: gray;
 }
